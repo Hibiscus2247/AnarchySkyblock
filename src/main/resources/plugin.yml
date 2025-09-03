@@ -1,0 +1,4 @@
+name: AnarchySkyblock
+version: '1.0-SNAPSHOT'
+main: Hibiscus.anarchySkyblock.AnarchySkyblock
+api-version: '1.21'
